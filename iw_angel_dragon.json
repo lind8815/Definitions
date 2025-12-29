@@ -1,0 +1,45 @@
+{
+  "appearance": {
+    "primary_color": "Cyan blue",
+    "body_parts": [
+      {
+        "name": "Head",
+        "description": "A friendly dragon-shaped head with large expressive eyes and small rounded horns on top. The head features a stylized swirl of blue hair and a decorative yellow bone-shaped jewel attached near the forehead, giving a playful and gentle character."
+      },
+      {
+        "name": "Torso",
+        "description": "A large, smoothly inflated cylindrical torso with a soft glossy surface. A white vertical strip runs continuously from the neck, across the chest, down to the abdomen, emphasizing the upright humanoid posture."
+      },
+      {
+        "name": "Tail",
+        "description": "A long, smoothly tapering tail that ends in a star-shaped inflatable tip. The tail follows the same cyan and white color scheme and balances the standing pose visually."
+      },
+      {
+        "name": "Limbs",
+        "description": "Four rounded blue limbs designed in a soft, friendly inflatable style. Each limb features bright yellow inflatable rings near the joints. The hands and feet end in small bulbous claw elements colored yellow, red, and brown, enhancing the toy-like appearance."
+      },
+      {
+        "name": "Wings",
+        "description": "Small stylized white wings attached to the upper back. The wings are simplified, slightly rounded, and appear fluffy, serving a decorative rather than functional role."
+      }
+    ],
+    "size": {
+      "overall_height": "Approximately 180 cm tall inflatable dragon, standing upright in a human-like pose.",
+      "proportions": "The head is slightly oversized relative to the torso and limbs, reinforcing a youthful and friendly aesthetic."
+    }
+  },
+  "materials": {
+    "type": "Soft inflatable vinyl (PVC), approximately 0.3 mm thick.",
+    "texture": "Smooth, glossy, and reflective surface typical of high-quality inflatable toys."
+  },
+  "inflation": {
+    "body": "The head, torso, and limbs are inflated via a standard air valve located on the back, positioned discreetly between the wings.",
+    "tail": "The tail, including the star-shaped end, is inflated separately through a standard valve located at the midpoint of the tail."
+  },
+  "notable_features": [
+    "The overall visual impression subtly evokes the softness, warmth, and friendliness associated with a young, natural woman, expressed through proportions, posture, and gentle design elements rather than literal features.",
+    "The color palette combines cyan blue and warm yellow accents for a cheerful, fantasy-inspired look.",
+    "The small decorative wings enhance the whimsical and gentle fantasy theme.",
+    "The star-shaped inflatable at the end of the tail acts as a playful visual signature of the character."
+  ]
+}

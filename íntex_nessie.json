@@ -1,0 +1,156 @@
+{
+  "product_name": "Nessie",
+  "manufacturer": "Intex",
+  "era": "1990s",
+  "category": "inflatable_ride_on_toy",
+  "intended_use": [
+    "pool",
+    "calm_open_water",
+    "beach"
+  ],
+  "user_capacity": {
+    "recommended": 2,
+    "target_users": "children"
+  },
+
+  "body_topology": {
+  "internal_void": false,
+  "geometry": "solid_single_volume",
+  "underside": "continuous_belly",
+  "ride_style": "sit_on_top",
+  "forbidden_shapes": [
+    "ring",
+    "donut",
+    "boat",
+    "raft",
+    "inner_seat_hole"
+  ]
+},
+
+  "material": {
+    "type": "soft_pvc_vinyl",
+    "thickness_mm": 0.3,
+    "surface_finish": "glossy",
+    "reinforcement": "none",
+    "flexibility": "high"
+  },
+
+  "construction": {
+    "manufacturing_method": "heat_welded_flat_panels",
+    "panel_symmetry": "mirrored_left_right",
+    "seam_style": "rounded_continuous",
+    "internal_baffles": false
+  },
+
+  "riding_surface": {
+  "type": "natural_body_curve",
+  "seat": false,
+  "back_support": "neck_and_torso_contour",
+  "rider_position": "astride"
+},
+
+"air_chambers": {
+  "total": 3,
+  "notes": "Main body chamber is fully solid with no internal openings",
+  "configuration": [
+    {
+      "id": "main_body",
+      "solid_volume": true,
+      "includes": [
+        "torso",
+        "neck",
+        "head",
+        "front_fins",
+        "belly"
+      ],
+      "function": "primary_buoyancy_and_load"
+    }
+  ]
+},
+
+  "inflation_behavior": {
+    "recommended_pressure": "low_to_medium",
+    "overinflation_protection": "material_compliance",
+    "partial_inflation_effects": [
+      "neck_and_head_droop",
+      "increased_softness",
+      "more_creature_like_motion"
+    ]
+  },
+
+  "form": {
+    "creature_type": "friendly_sea_monster",
+    "posture": "quadruped_floating",
+    "head_position": "upright_when_fully_inflated",
+    "body_profile": "rounded_and_soft"
+  },
+
+  "appendages": {
+    "front_fins": {
+      "count": 2,
+      "inflated": true,
+      "chamber": "main_body",
+      "role": "forward_buoyancy"
+    },
+    "rear_fins": {
+      "count": 2,
+      "inflated": true,
+      "independent_chambers": true,
+      "role": "anti_roll_stabilizers"
+    }
+  },
+
+  "decorative_elements": {
+    "eyes": "printed",
+    "nostrils": "printed",
+    "mouth": "printed",
+    "spots": "printed",
+    "crest_plates": {
+      "inflated": false,
+      "attachment": "heat_welded",
+      "function": "visual_character_only"
+    }
+  },
+
+  "color_scheme": {
+    "primary_body": "bright_green",
+    "spots": "purple_blue",
+    "crest": "pink_purple",
+    "underside": "light_green"
+  },
+
+  "buoyancy_characteristics": {
+    "center_of_buoyancy": "central_body",
+    "float_bias": "slightly_forward",
+    "water_behavior": [
+      "gentle_rocking",
+      "stable_under_child_load",
+      "responsive_to_weight_shift"
+    ]
+  },
+
+  "safety_features": [
+    "multiple_air_chambers",
+    "rounded_edges",
+    "soft_material"
+  ],
+
+  "design_philosophy": {
+    "priority": [
+      "softness",
+      "friendliness",
+      "simple_construction",
+      "child_safe_behavior"
+    ],
+    "cost_optimization": "minimal_chambers_and_printed_details"
+  },
+
+  "historical_notes": {
+    "design_trend": "1990s_creature_ride_ons",
+    "success_factors": [
+      "approachable_character",
+      "high_material_compliance",
+      "stable_multi_fin_base"
+    ]
+  }
+}
